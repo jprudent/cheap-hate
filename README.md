@@ -117,6 +117,9 @@ all are pale copies of other hits. The only reason you would play a
 Chip-8 game is if you are me and you want to wonder at the program you just
 wrote and tell you, "It's alive, alive !".
 
+*EDIT*: There is actually a nice community of passionates that produces neat
+games each year for a jam. Please, have a look at the [OctoJam](http://www.awfuljams.com/).
+
 But I can't refrain you of not being me and also wanting to play some Chip-8
 games. So here is a quick guide.
 
